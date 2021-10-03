@@ -1,0 +1,3 @@
+[submodule "basemodule"]
+	path = basemodule
+	url = https://github.com/kovalenkovpu/basemodule.git
